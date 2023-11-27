@@ -1,6 +1,6 @@
 # ariefannur
 
-<h1 align="center">Hi 👋, I'm Arief Maffrudin A</h1>
+<h1 align="center">Hi 👋, I'm Arief Maffrudin A N</h1>
 <h3 align="center">A passionate Android Engineer from Indonesia, Creating Library with Kotlin Multiplatform Project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariefannur&label=Profile%20views&color=0e75b6&style=flat" alt="ariefannur" /> </p>
