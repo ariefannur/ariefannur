@@ -1,5 +1,3 @@
-# ariefannur
-
 <h1 align="center">Hi 👋, I'm Arief Maffrudin A N</h1>
 <h3 align="center">A passionate Android Engineer from Indonesia, Creating Library with Kotlin Multiplatform Project</h3>
 
